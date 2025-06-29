@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+
+First goal: Learn Python
+Second goal: Complete a data science course
+Third goal: Contribute to an open-source project
